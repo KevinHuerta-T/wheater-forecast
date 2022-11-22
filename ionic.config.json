@@ -1,0 +1,7 @@
+{
+  "name": "wheater-forecast",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
